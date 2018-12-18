@@ -20,4 +20,6 @@ int main() {
 
 	out.close();
 	file.close();
+	
+	return 0;
 }
